@@ -24,7 +24,7 @@ python app.py
    
 ## API Endpoints
 
-**POST /recognize**: Submit audio data to the API endpoint for speech recognition. The response will contain the transcribed text.
+**POST /translate**: Submit audio data to the API endpoint for speech recognition. The response will contain the transcribed text.
 
 ## Example Usage
 
